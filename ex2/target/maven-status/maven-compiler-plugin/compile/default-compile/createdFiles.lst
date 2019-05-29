@@ -1,0 +1,14 @@
+com\acme\ex2\model\entity\AbstractPersistentEntity.class
+com\acme\ex2\repository\MemberRepository.class
+com\acme\ex2\model\entity\Reservation.class
+com\acme\ex2\repository\BookRepository.class
+com\acme\ex2\repository\AuthorRepository.class
+com\acme\ex2\business\MemberRules.class
+com\acme\ex2\model\entity\Author.class
+com\acme\ex2\ApplicationConfig.class
+com\acme\ex2\model\entity\Book.class
+com\acme\ex2\model\component\Account.class
+com\acme\ex2\repository\ReservationRepository.class
+com\acme\ex2\model\component\Comment.class
+com\acme\ex2\model\entity\Member.class
+com\acme\ex2\model\entity\reference\Category.class

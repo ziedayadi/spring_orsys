@@ -1,0 +1,3 @@
+com\acme\ex2\repository\BookRepositoryTest.class
+com\acme\ex2\repository\BookRepositoryRestTest.class
+com\acme\ex2\repository\MemberRepositoryRestTest.class
